@@ -1,0 +1,10 @@
+# Environment variables
+.env*
+!.env.example
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
+.vercel
+.env*
